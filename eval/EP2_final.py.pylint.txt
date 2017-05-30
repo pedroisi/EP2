@@ -1,0 +1,431 @@
+************* Module EP2_final
+W:  7, 0: Cannot decode using encoding "ascii", unexpected byte at position 39 (invalid-encoded-data)
+W:  8, 0: Cannot decode using encoding "ascii", unexpected byte at position 38 (invalid-encoded-data)
+W:  9, 0: Cannot decode using encoding "ascii", unexpected byte at position 36 (invalid-encoded-data)
+W: 10, 0: Cannot decode using encoding "ascii", unexpected byte at position 39 (invalid-encoded-data)
+W: 11, 0: Cannot decode using encoding "ascii", unexpected byte at position 36 (invalid-encoded-data)
+W: 12, 0: Cannot decode using encoding "ascii", unexpected byte at position 36 (invalid-encoded-data)
+W: 13, 0: Cannot decode using encoding "ascii", unexpected byte at position 39 (invalid-encoded-data)
+W: 22, 0: Cannot decode using encoding "ascii", unexpected byte at position 30 (invalid-encoded-data)
+W: 24, 0: Cannot decode using encoding "ascii", unexpected byte at position 42 (invalid-encoded-data)
+W: 26, 0: Cannot decode using encoding "ascii", unexpected byte at position 29 (invalid-encoded-data)
+W: 31, 0: Cannot decode using encoding "ascii", unexpected byte at position 33 (invalid-encoded-data)
+W: 32, 0: Cannot decode using encoding "ascii", unexpected byte at position 33 (invalid-encoded-data)
+W: 40, 0: Cannot decode using encoding "ascii", unexpected byte at position 26 (invalid-encoded-data)
+W: 42, 0: Cannot decode using encoding "ascii", unexpected byte at position 21 (invalid-encoded-data)
+W: 46, 0: Cannot decode using encoding "ascii", unexpected byte at position 31 (invalid-encoded-data)
+W: 48, 0: Cannot decode using encoding "ascii", unexpected byte at position 15 (invalid-encoded-data)
+W: 58, 0: Cannot decode using encoding "ascii", unexpected byte at position 15 (invalid-encoded-data)
+W: 60, 0: Cannot decode using encoding "ascii", unexpected byte at position 14 (invalid-encoded-data)
+W: 63, 0: Cannot decode using encoding "ascii", unexpected byte at position 31 (invalid-encoded-data)
+W: 65, 0: Cannot decode using encoding "ascii", unexpected byte at position 13 (invalid-encoded-data)
+W: 72, 0: Cannot decode using encoding "ascii", unexpected byte at position 22 (invalid-encoded-data)
+W: 81, 0: Cannot decode using encoding "ascii", unexpected byte at position 14 (invalid-encoded-data)
+W: 83, 0: Cannot decode using encoding "ascii", unexpected byte at position 13 (invalid-encoded-data)
+W: 89, 0: Cannot decode using encoding "ascii", unexpected byte at position 30 (invalid-encoded-data)
+W: 92, 0: Cannot decode using encoding "ascii", unexpected byte at position 14 (invalid-encoded-data)
+W:103, 0: Cannot decode using encoding "ascii", unexpected byte at position 10 (invalid-encoded-data)
+W:105, 0: Cannot decode using encoding "ascii", unexpected byte at position 31 (invalid-encoded-data)
+W:107, 0: Cannot decode using encoding "ascii", unexpected byte at position 35 (invalid-encoded-data)
+W:108, 0: Cannot decode using encoding "ascii", unexpected byte at position 61 (invalid-encoded-data)
+W:112, 0: Cannot decode using encoding "ascii", unexpected byte at position 23 (invalid-encoded-data)
+W:119, 0: Cannot decode using encoding "ascii", unexpected byte at position 13 (invalid-encoded-data)
+W:127, 0: Cannot decode using encoding "ascii", unexpected byte at position 20 (invalid-encoded-data)
+W:130, 0: Cannot decode using encoding "ascii", unexpected byte at position 21 (invalid-encoded-data)
+W:132, 0: Cannot decode using encoding "ascii", unexpected byte at position 29 (invalid-encoded-data)
+W:139, 0: Cannot decode using encoding "ascii", unexpected byte at position 39 (invalid-encoded-data)
+C:  7, 0: Wrong hanging indentation (add 1 space).
+			"Clayton": {"Poder de ataque":55, "Nível de Defesa": 15,"Pontos de Vida":100},
+   ^| (bad-continuation)
+C:  7, 0: Exactly one space required after comma
+			"Clayton": {"Poder de ataque":55, "Nível de Defesa": 15,"Pontos de Vida":100},
+                                                           ^ (bad-whitespace)
+C:  8, 0: Wrong hanging indentation (add 1 space).
+			"Robson":{"Poder de ataque": 70, "Nível de Defesa":15,"Pontos de Vida":100},
+   ^| (bad-continuation)
+C:  8, 0: Exactly one space required after comma
+			"Robson":{"Poder de ataque": 70, "Nível de Defesa":15,"Pontos de Vida":100},
+                                                         ^ (bad-whitespace)
+C:  9, 0: Wrong hanging indentation (add 1 space).
+			"Wilson":{"Poder de ataque":60,"Nível de Defesa":10,"Pontos de Vida":100},
+   ^| (bad-continuation)
+C:  9, 0: Exactly one space required after comma
+			"Wilson":{"Poder de ataque":60,"Nível de Defesa":10,"Pontos de Vida":100},
+                                 ^ (bad-whitespace)
+C:  9, 0: Exactly one space required after comma
+			"Wilson":{"Poder de ataque":60,"Nível de Defesa":10,"Pontos de Vida":100},
+                                                       ^ (bad-whitespace)
+C: 10, 0: Wrong hanging indentation (add 1 space).
+			"Weirdelas":{"Poder de ataque":65,"Nível de Defesa":17,"Pontos de Vida":100},
+   ^| (bad-continuation)
+C: 10, 0: Exactly one space required after comma
+			"Weirdelas":{"Poder de ataque":65,"Nível de Defesa":17,"Pontos de Vida":100},
+                                    ^ (bad-whitespace)
+C: 10, 0: Exactly one space required after comma
+			"Weirdelas":{"Poder de ataque":65,"Nível de Defesa":17,"Pontos de Vida":100},
+                                                          ^ (bad-whitespace)
+C: 11, 0: Wrong hanging indentation (add 1 space).
+			"Carlos":{"Poder de ataque":75,"Nível de Defesa":12,"Pontos de Vida":100},
+   ^| (bad-continuation)
+C: 11, 0: Exactly one space required after comma
+			"Carlos":{"Poder de ataque":75,"Nível de Defesa":12,"Pontos de Vida":100},
+                                 ^ (bad-whitespace)
+C: 11, 0: Exactly one space required after comma
+			"Carlos":{"Poder de ataque":75,"Nível de Defesa":12,"Pontos de Vida":100},
+                                                       ^ (bad-whitespace)
+C: 12, 0: Wrong hanging indentation (add 1 space).
+			"Isimon":{"Poder de ataque":72,"Nível de Defesa":16,"Pontos de Vida":100},
+   ^| (bad-continuation)
+C: 12, 0: Exactly one space required after comma
+			"Isimon":{"Poder de ataque":72,"Nível de Defesa":16,"Pontos de Vida":100},
+                                 ^ (bad-whitespace)
+C: 12, 0: Exactly one space required after comma
+			"Isimon":{"Poder de ataque":72,"Nível de Defesa":16,"Pontos de Vida":100},
+                                                       ^ (bad-whitespace)
+C: 13, 0: Wrong hanging indentation (add 1 space).
+			"Dududelas":{"Poder de ataque":71,"Nível de Defesa":18,"Pontos de Vida":100},
+   ^| (bad-continuation)
+C: 13, 0: Exactly one space required after comma
+			"Dududelas":{"Poder de ataque":71,"Nível de Defesa":18,"Pontos de Vida":100},
+                                    ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+			"Dududelas":{"Poder de ataque":71,"Nível de Defesa":18,"Pontos de Vida":100},
+                                                          ^ (bad-whitespace)
+C: 14, 0: Trailing whitespace (trailing-whitespace)
+C: 16, 0: Wrong hanging indentation.
+			} #dicionario com os Inspermons
+|  ^| (bad-continuation)
+C: 21, 0: Exactly one space required after comma
+listafound = ["Clayton","Robson","Wilson","Weirdelas","Carlos","Isimon","Dududelas"]
+                       ^ (bad-whitespace)
+C: 21, 0: Exactly one space required after comma
+listafound = ["Clayton","Robson","Wilson","Weirdelas","Carlos","Isimon","Dududelas"]
+                                ^ (bad-whitespace)
+C: 21, 0: Exactly one space required after comma
+listafound = ["Clayton","Robson","Wilson","Weirdelas","Carlos","Isimon","Dududelas"]
+                                         ^ (bad-whitespace)
+C: 21, 0: Exactly one space required after comma
+listafound = ["Clayton","Robson","Wilson","Weirdelas","Carlos","Isimon","Dududelas"]
+                                                     ^ (bad-whitespace)
+C: 21, 0: Exactly one space required after comma
+listafound = ["Clayton","Robson","Wilson","Weirdelas","Carlos","Isimon","Dududelas"]
+                                                              ^ (bad-whitespace)
+C: 21, 0: Exactly one space required after comma
+listafound = ["Clayton","Robson","Wilson","Weirdelas","Carlos","Isimon","Dududelas"]
+                                                                       ^ (bad-whitespace)
+C: 23, 0: Exactly one space required after comma
+sorte = [0.2,0.5,1,1.1,1.2,1.4,1.8] # Valores que influenciam a batalha "sorte"
+            ^ (bad-whitespace)
+C: 23, 0: Exactly one space required after comma
+sorte = [0.2,0.5,1,1.1,1.2,1.4,1.8] # Valores que influenciam a batalha "sorte"
+                ^ (bad-whitespace)
+C: 23, 0: Exactly one space required after comma
+sorte = [0.2,0.5,1,1.1,1.2,1.4,1.8] # Valores que influenciam a batalha "sorte"
+                  ^ (bad-whitespace)
+C: 23, 0: Exactly one space required after comma
+sorte = [0.2,0.5,1,1.1,1.2,1.4,1.8] # Valores que influenciam a batalha "sorte"
+                      ^ (bad-whitespace)
+C: 23, 0: Exactly one space required after comma
+sorte = [0.2,0.5,1,1.1,1.2,1.4,1.8] # Valores que influenciam a batalha "sorte"
+                          ^ (bad-whitespace)
+C: 23, 0: Exactly one space required after comma
+sorte = [0.2,0.5,1,1.1,1.2,1.4,1.8] # Valores que influenciam a batalha "sorte"
+                              ^ (bad-whitespace)
+C: 24, 0: Exactly one space required after comma
+fugaoubatalha = [1,2] # Valores para aleatóriamente validar ou não a fuga
+                  ^ (bad-whitespace)
+C: 26, 0: Exactly one space required after comma
+def Batalha(nome,poke): # função batalha
+                ^ (bad-whitespace)
+W: 27, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 28, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 29, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 30, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 31, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 32, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 33, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 34, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 35, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 37, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 38, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 39, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 39, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W: 40, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 41, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 41, 0: Exactly one space required around comparison
+			while vidapoke>0 and vidanome>0:
+                 ^ (bad-whitespace)
+C: 41, 0: Exactly one space required around comparison
+			while vidapoke>0 and vidanome>0:
+                                ^ (bad-whitespace)
+W: 42, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 42, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W: 44, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 45, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 45, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W: 46, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 46, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W: 47, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 48, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 48, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W: 49, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 50, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 53, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 54, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 54, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W: 55, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 55, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C: 56, 0: Trailing whitespace (trailing-whitespace)
+W: 56, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 57, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 58, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 58, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W: 59, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 60, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 60, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W: 61, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 62, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 63, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 64, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 65, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 65, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C: 66, 0: Trailing whitespace (trailing-whitespace)
+C: 67, 0: Trailing whitespace (trailing-whitespace)
+C: 68, 0: Trailing whitespace (trailing-whitespace)
+C: 69, 0: Trailing whitespace (trailing-whitespace)
+W: 72, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 73, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 73, 0: Exactly one space required around comparison
+		while vidapoke>0 and vidanome>0:
+                ^ (bad-whitespace)
+C: 73, 0: Exactly one space required around comparison
+		while vidapoke>0 and vidanome>0:
+                               ^ (bad-whitespace)
+C: 74, 0: Trailing whitespace (trailing-whitespace)
+W: 75, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 76, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 76, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C: 77, 0: Trailing whitespace (trailing-whitespace)
+W: 77, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 80, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 81, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 81, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W: 82, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 83, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 83, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W: 84, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 85, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 86, 0: Trailing whitespace (trailing-whitespace)
+C: 87, 0: Trailing whitespace (trailing-whitespace)
+W: 88, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 89, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 89, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W: 91, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 92, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 92, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W: 93, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W: 94, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 95, 0: Trailing whitespace (trailing-whitespace)
+W:102, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:103, 0: Line too long (137/100) (line-too-long)
+W:103, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:103, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W:104, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:105, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:106, 0: Trailing whitespace (trailing-whitespace)
+W:107, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:108, 0: Line too long (130/100) (line-too-long)
+W:108, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:108, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W:109, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:110, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:111, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:112, 0: Line too long (254/100) (line-too-long)
+W:112, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:112, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C:112, 0: Exactly one space required after comma
+		print("Muito bem! Você selecionou o {0} e seus atributos são: Pontos de Vida: {1}, Poder de Ataque: {2} e Nível de Defesa: {3}".format(poke,Inspermons[poke]['Pontos de Vida'],Inspermons[poke]['Poder de ataque'],Inspermons[poke]['Nível de Defesa']))
+                                                                                                                                                ^ (bad-whitespace)
+C:112, 0: Exactly one space required after comma
+		print("Muito bem! Você selecionou o {0} e seus atributos são: Pontos de Vida: {1}, Poder de Ataque: {2} e Nível de Defesa: {3}".format(poke,Inspermons[poke]['Pontos de Vida'],Inspermons[poke]['Poder de ataque'],Inspermons[poke]['Nível de Defesa']))
+                                                                                                                                                                                   ^ (bad-whitespace)
+C:112, 0: Exactly one space required after comma
+		print("Muito bem! Você selecionou o {0} e seus atributos são: Pontos de Vida: {1}, Poder de Ataque: {2} e Nível de Defesa: {3}".format(poke,Inspermons[poke]['Pontos de Vida'],Inspermons[poke]['Poder de ataque'],Inspermons[poke]['Nível de Defesa']))
+                                                                                                                                                                                                                       ^ (bad-whitespace)
+W:113, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:115, 0: Line too long (135/100) (line-too-long)
+W:115, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:116, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:117, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:117, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W:118, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:119, 0: Line too long (104/100) (line-too-long)
+W:119, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:119, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W:121, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:122, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:122, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W:123, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:124, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:125, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:126, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:127, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:127, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W:128, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:129, 0: Trailing whitespace (trailing-whitespace)
+C:130, 0: Line too long (280/100) (line-too-long)
+W:130, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:130, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C:130, 0: Exactly one space required after comma
+		print("Ora ora, você encontrou um Inspermon Selvagem ele é o {0} e seus atributos são: Pontos de Vida: {1}, Poder de Ataque: {2} e Nível de Defesa: {3}".format(nome,Inspermons[nome]['Pontos de Vida'],Inspermons[nome]['Poder de ataque'],Inspermons[nome]['Nível de Defesa']))
+                                                                                                                                                                          ^ (bad-whitespace)
+C:130, 0: Exactly one space required after comma
+		print("Ora ora, você encontrou um Inspermon Selvagem ele é o {0} e seus atributos são: Pontos de Vida: {1}, Poder de Ataque: {2} e Nível de Defesa: {3}".format(nome,Inspermons[nome]['Pontos de Vida'],Inspermons[nome]['Poder de ataque'],Inspermons[nome]['Nível de Defesa']))
+                                                                                                                                                                                                             ^ (bad-whitespace)
+C:130, 0: Exactly one space required after comma
+		print("Ora ora, você encontrou um Inspermon Selvagem ele é o {0} e seus atributos são: Pontos de Vida: {1}, Poder de Ataque: {2} e Nível de Defesa: {3}".format(nome,Inspermons[nome]['Pontos de Vida'],Inspermons[nome]['Poder de ataque'],Inspermons[nome]['Nível de Defesa']))
+                                                                                                                                                                                                                                                 ^ (bad-whitespace)
+W:131, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:132, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:132, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+W:133, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:134, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:134, 0: Exactly one space required after comma
+		Batalha(nome,poke)
+              ^ (bad-whitespace)
+W:135, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:136, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:137, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+W:138, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:139, 0: Trailing whitespace (trailing-whitespace)
+W:139, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C:141, 0: Trailing whitespace (trailing-whitespace)
+C:142, 0: Trailing whitespace (trailing-whitespace)
+C:145, 0: Trailing whitespace (trailing-whitespace)
+C:157, 0: Trailing newlines (trailing-newlines)
+C:  1, 0: Invalid module name "EP2_final" (invalid-name)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  5, 0: Invalid constant name "Inspermons" (invalid-name)
+C: 21, 0: Invalid constant name "listafound" (invalid-name)
+C: 22, 0: Invalid constant name "Insperdex" (invalid-name)
+C: 23, 0: Invalid constant name "sorte" (invalid-name)
+C: 24, 0: Invalid constant name "fugaoubatalha" (invalid-name)
+W: 26,17: Redefining name 'poke' from outer scope (line 105) (redefined-outer-name)
+W: 26,12: Redefining name 'nome' from outer scope (line 102) (redefined-outer-name)
+C: 26, 0: Invalid function name "Batalha" (invalid-name)
+C: 26, 0: Missing function docstring (missing-docstring)
+C: 33, 1: Invalid variable name "s" (invalid-name)
+C: 34, 1: Invalid variable name "x" (invalid-name)
+C: 38, 2: Invalid variable name "fb" (invalid-name)
+R: 26, 0: Too many statements (51/50) (too-many-statements)
+C: 99, 0: Invalid constant name "t" (invalid-name)
+W:124, 2: Unreachable code (unreachable)
+
+
+Report
+======
+96 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |NC         |NC         |0.00        |100.00   |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |1      |NC         |NC         |0.00        |100.00   |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |98     |62.03 |NC       |NC         |
++----------+-------+------+---------+-----------+
+|docstring |7      |4.43  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |0      |0.00  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|empty     |53     |33.54 |NC       |NC         |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |NC       |NC         |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |NC       |NC         |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |106    |NC       |NC         |
++-----------+-------+---------+-----------+
+|refactor   |1      |NC       |NC         |
++-----------+-------+---------+-----------+
+|warning    |124    |NC       |NC         |
++-----------+-------+---------+-----------+
+|error      |0      |NC       |NC         |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++---------------------+------------+
+|message id           |occurrences |
++=====================+============+
+|mixed-indentation    |86          |
++---------------------+------------+
+|bad-whitespace       |37          |
++---------------------+------------+
+|invalid-encoded-data |35          |
++---------------------+------------+
+|superfluous-parens   |24          |
++---------------------+------------+
+|trailing-whitespace  |17          |
++---------------------+------------+
+|invalid-name         |11          |
++---------------------+------------+
+|bad-continuation     |8           |
++---------------------+------------+
+|line-too-long        |6           |
++---------------------+------------+
+|redefined-outer-name |2           |
++---------------------+------------+
+|missing-docstring    |2           |
++---------------------+------------+
+|unreachable          |1           |
++---------------------+------------+
+|trailing-newlines    |1           |
++---------------------+------------+
+|too-many-statements  |1           |
++---------------------+------------+
+
+
+
+Global evaluation
+-----------------
+Your code has been rated at -14.06/10
+
